@@ -1,2 +1,2 @@
-# CODECRAFT_WD_05
+# WHETHER APP
 Whether App
